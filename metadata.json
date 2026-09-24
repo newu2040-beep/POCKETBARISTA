@@ -1,0 +1,7 @@
+{
+  "name": "RECIPEPOCKET",
+  "description": "Brew. Create. Remember. A production-ready mobile-first barista companion app with universal recipe library, custom studio, brewing timers, ratio calculators and extraction journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
